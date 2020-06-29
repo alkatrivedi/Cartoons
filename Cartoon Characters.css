@@ -1,0 +1,22 @@
+body{
+	background:url(https://www.universetoday.com/wp-content/uploads/2019/05/stsci-h-p1917b-q-5198x4801.jpg);
+}
+
+img{
+	width:26%;
+	float:left;
+	margin:2%;
+	border: 3px solid green;
+}
+
+p{
+	font-family:Raleway;
+	margin-left:1.66%;
+	font-size:23px;
+	font-weight:800;
+	text-transform:uppercase;
+	border-bottom:2px solid #f1f1f1;
+	width:30%;
+	padding-bottom:30px;
+	color:white;
+}
