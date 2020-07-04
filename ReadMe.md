@@ -1,1 +1,1 @@
-I have made this repository just for jun. In which I created a photo gallery of some Cartoon Characters using HTML and CSS.
+I made this repository just for jun. In which I have created a photo gallery of some Cartoon Characters using HTML and CSS.
